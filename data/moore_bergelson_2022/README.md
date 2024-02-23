@@ -1,1 +1,0 @@
-#Moore Bergelson 2022 README

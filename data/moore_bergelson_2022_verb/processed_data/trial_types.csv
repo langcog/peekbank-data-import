@@ -1,0 +1,1215 @@
+trial_type_id,full_phrase,full_phrase_language,point_of_disambiguation,vanilla_trial,target_side,lab_trial_id,condition,dataset_id,distractor_id,target_id,aoi_region_set_id,trial_type_aux_data
+0,Look! She can clean,eng,14807,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+1,Look! She can clean,eng,14808,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+2,Look! She can clean,eng,14812,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+3,Look! She can clean,eng,14812,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+4,Look! She can clean,eng,14814,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+5,Look! She can clean,eng,14814,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+6,Look! She can clean,eng,14815,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+7,Look! She can clean,eng,14815,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+8,Look! She can clean,eng,14816,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+9,Look! She can clean,eng,14817,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+10,Look! She can clean,eng,14817,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+11,Look! She can clean,eng,14818,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+12,Look! She can clean,eng,14818,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+13,Look! She can clean,eng,14819,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+14,Look! She can clean,eng,14819,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+15,Look! She can clean,eng,14820,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+16,Look! She can clean,eng,14820,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+17,Look! She can clean,eng,14822,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+18,Look! She can clean,eng,14823,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+19,Look! She can clean,eng,14824,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+20,Look! She can clean,eng,14825,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+21,Look! She can clean,eng,14825,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+22,Look! She can clean,eng,14826,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+23,Look! She can clean,eng,14827,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+24,Look! She can clean,eng,14828,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+25,Look! She can clean,eng,14828,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+26,Look! She can clean,eng,14829,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+27,Look! She can clean,eng,14829,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+28,Look! She can clean,eng,14830,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+29,Look! She can clean,eng,14831,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+30,Look! She can clean,eng,14832,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+31,Look! She can clean,eng,14834,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+32,Look! She can clean,eng,14834,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+33,Look! She can clean,eng,14835,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+34,Look! She can clean,eng,14835,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+35,Look! She can clean,eng,14838,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+36,Look! She can clean,eng,14838,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+37,Look! She can clean,eng,14843,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+38,Look! She can clean,eng,14846,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+39,Look! She can clean,eng,14864,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+40,Look! She can clean,eng,14872,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+41,Look! She can clean,eng,14892,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+42,Look! She can clean,eng,14897,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+43,Look! She can clean,eng,14900,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+44,Look! She can clean,eng,14901,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+45,Look! She can clean,eng,14901,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+46,Look! She can clean,eng,14904,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+47,Look! She can clean,eng,14904,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+48,Look! She can clean,eng,14905,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+49,Look! She can clean,eng,14906,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+50,Look! She can clean,eng,14907,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+51,Look! She can clean,eng,14907,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+52,Look! She can clean,eng,14908,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+53,Look! She can clean,eng,14910,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+54,Look! She can clean,eng,14911,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+55,Look! She can clean,eng,14911,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+56,Look! She can clean,eng,14912,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+57,Look! She can clean,eng,14912,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+58,Look! She can clean,eng,14913,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+59,Look! She can clean,eng,14913,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+60,Look! She can clean,eng,14914,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+61,Look! She can clean,eng,14915,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+62,Look! She can clean,eng,14915,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+63,Look! She can clean,eng,14916,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+64,Look! She can clean,eng,14916,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+65,Look! She can clean,eng,14917,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+66,Look! She can clean,eng,14917,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+67,Look! She can clean,eng,14918,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+68,Look! She can clean,eng,14919,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+69,Look! She can clean,eng,14919,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+70,Look! She can clean,eng,14922,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+71,Look! She can clean,eng,16964,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+72,Look! She can clean,eng,16964,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+73,Look! She can clean,eng,17330,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+74,Look! She can clean,eng,19258,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+75,Look! She can clean,eng,23629,TRUE,right,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+76,Look! She can clean,eng,27815,TRUE,left,clean_can-clean_read_distractor,correctly pronounced x regular,0,14,0,0,NA
+77,Look! She can cline,eng,14812,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+78,Look! She can cline,eng,14812,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+79,Look! She can cline,eng,14813,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+80,Look! She can cline,eng,14814,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+81,Look! She can cline,eng,14815,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+82,Look! She can cline,eng,14815,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+83,Look! She can cline,eng,14816,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+84,Look! She can cline,eng,14817,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+85,Look! She can cline,eng,14817,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+86,Look! She can cline,eng,14818,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+87,Look! She can cline,eng,14818,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+88,Look! She can cline,eng,14819,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+89,Look! She can cline,eng,14819,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+90,Look! She can cline,eng,14820,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+91,Look! She can cline,eng,14820,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+92,Look! She can cline,eng,14821,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+93,Look! She can cline,eng,14821,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+94,Look! She can cline,eng,14822,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+95,Look! She can cline,eng,14822,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+96,Look! She can cline,eng,14823,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+97,Look! She can cline,eng,14824,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+98,Look! She can cline,eng,14824,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+99,Look! She can cline,eng,14825,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+100,Look! She can cline,eng,14825,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+101,Look! She can cline,eng,14826,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+102,Look! She can cline,eng,14826,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+103,Look! She can cline,eng,14827,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+104,Look! She can cline,eng,14827,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+105,Look! She can cline,eng,14828,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+106,Look! She can cline,eng,14828,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+107,Look! She can cline,eng,14830,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+108,Look! She can cline,eng,14831,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+109,Look! She can cline,eng,14831,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+110,Look! She can cline,eng,14836,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+111,Look! She can cline,eng,14839,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+112,Look! She can cline,eng,14842,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+113,Look! She can cline,eng,14842,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+114,Look! She can cline,eng,14844,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+115,Look! She can cline,eng,14852,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+116,Look! She can cline,eng,14854,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+117,Look! She can cline,eng,14862,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+118,Look! She can cline,eng,14866,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+119,Look! She can cline,eng,14871,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+120,Look! She can cline,eng,14882,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+121,Look! She can cline,eng,14888,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+122,Look! She can cline,eng,14889,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+123,Look! She can cline,eng,14900,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+124,Look! She can cline,eng,14901,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+125,Look! She can cline,eng,14901,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+126,Look! She can cline,eng,14903,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+127,Look! She can cline,eng,14904,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+128,Look! She can cline,eng,14904,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+129,Look! She can cline,eng,14905,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+130,Look! She can cline,eng,14905,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+131,Look! She can cline,eng,14906,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+132,Look! She can cline,eng,14907,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+133,Look! She can cline,eng,14908,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+134,Look! She can cline,eng,14909,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+135,Look! She can cline,eng,14909,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+136,Look! She can cline,eng,14910,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+137,Look! She can cline,eng,14910,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+138,Look! She can cline,eng,14911,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+139,Look! She can cline,eng,14912,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+140,Look! She can cline,eng,14912,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+141,Look! She can cline,eng,14913,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+142,Look! She can cline,eng,14913,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+143,Look! She can cline,eng,14914,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+144,Look! She can cline,eng,14915,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+145,Look! She can cline,eng,14916,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+146,Look! She can cline,eng,14916,FALSE,right,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+147,Look! She can cline,eng,14917,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+148,Look! She can cline,eng,14919,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+149,Look! She can cline,eng,14921,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+150,Look! She can cline,eng,17540,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+151,Look! She can cline,eng,18332,FALSE,left,clean_can-cline_read_distractor,mispronounced x regular,0,14,1,0,NA
+152,Look! She can joomp,eng,14811,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+153,Look! She can joomp,eng,14811,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+154,Look! She can joomp,eng,14813,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+155,Look! She can joomp,eng,14814,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+156,Look! She can joomp,eng,14815,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+157,Look! She can joomp,eng,14817,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+158,Look! She can joomp,eng,14818,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+159,Look! She can joomp,eng,14818,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+160,Look! She can joomp,eng,14819,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+161,Look! She can joomp,eng,14820,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+162,Look! She can joomp,eng,14820,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+163,Look! She can joomp,eng,14821,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+164,Look! She can joomp,eng,14821,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+165,Look! She can joomp,eng,14822,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+166,Look! She can joomp,eng,14822,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+167,Look! She can joomp,eng,14823,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+168,Look! She can joomp,eng,14823,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+169,Look! She can joomp,eng,14824,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+170,Look! She can joomp,eng,14824,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+171,Look! She can joomp,eng,14825,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+172,Look! She can joomp,eng,14825,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+173,Look! She can joomp,eng,14826,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+174,Look! She can joomp,eng,14827,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+175,Look! She can joomp,eng,14828,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+176,Look! She can joomp,eng,14829,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+177,Look! She can joomp,eng,14829,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+178,Look! She can joomp,eng,14830,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+179,Look! She can joomp,eng,14830,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+180,Look! She can joomp,eng,14832,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+181,Look! She can joomp,eng,14834,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+182,Look! She can joomp,eng,14834,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+183,Look! She can joomp,eng,14835,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+184,Look! She can joomp,eng,14836,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+185,Look! She can joomp,eng,14837,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+186,Look! She can joomp,eng,14838,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+187,Look! She can joomp,eng,14845,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+188,Look! She can joomp,eng,14847,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+189,Look! She can joomp,eng,14848,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+190,Look! She can joomp,eng,14853,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+191,Look! She can joomp,eng,14857,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+192,Look! She can joomp,eng,14887,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+193,Look! She can joomp,eng,14889,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+194,Look! She can joomp,eng,14892,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+195,Look! She can joomp,eng,14893,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+196,Look! She can joomp,eng,14896,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+197,Look! She can joomp,eng,14899,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+198,Look! She can joomp,eng,14900,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+199,Look! She can joomp,eng,14900,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+200,Look! She can joomp,eng,14903,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+201,Look! She can joomp,eng,14904,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+202,Look! She can joomp,eng,14905,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+203,Look! She can joomp,eng,14905,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+204,Look! She can joomp,eng,14907,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+205,Look! She can joomp,eng,14907,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+206,Look! She can joomp,eng,14908,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+207,Look! She can joomp,eng,14908,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+208,Look! She can joomp,eng,14909,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+209,Look! She can joomp,eng,14910,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+210,Look! She can joomp,eng,14911,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+211,Look! She can joomp,eng,14911,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+212,Look! She can joomp,eng,14912,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+213,Look! She can joomp,eng,14913,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+214,Look! She can joomp,eng,14914,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+215,Look! She can joomp,eng,14915,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+216,Look! She can joomp,eng,14915,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+217,Look! She can joomp,eng,14916,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+218,Look! She can joomp,eng,14917,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+219,Look! She can joomp,eng,14917,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+220,Look! She can joomp,eng,14918,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+221,Look! She can joomp,eng,14919,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+222,Look! She can joomp,eng,14920,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+223,Look! She can joomp,eng,14920,FALSE,right,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+224,Look! She can joomp,eng,14921,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+225,Look! She can joomp,eng,15428,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+226,Look! She can joomp,eng,19813,FALSE,left,jump_can-joomp_run_distractor,mispronounced x regular,0,17,6,0,NA
+227,Look! She can jump,eng,14799,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+228,Look! She can jump,eng,14810,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+229,Look! She can jump,eng,14810,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+230,Look! She can jump,eng,14811,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+231,Look! She can jump,eng,14812,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+232,Look! She can jump,eng,14812,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+233,Look! She can jump,eng,14814,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+234,Look! She can jump,eng,14814,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+235,Look! She can jump,eng,14815,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+236,Look! She can jump,eng,14815,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+237,Look! She can jump,eng,14816,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+238,Look! She can jump,eng,14816,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+239,Look! She can jump,eng,14817,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+240,Look! She can jump,eng,14818,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+241,Look! She can jump,eng,14818,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+242,Look! She can jump,eng,14819,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+243,Look! She can jump,eng,14820,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+244,Look! She can jump,eng,14820,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+245,Look! She can jump,eng,14821,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+246,Look! She can jump,eng,14821,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+247,Look! She can jump,eng,14822,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+248,Look! She can jump,eng,14822,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+249,Look! She can jump,eng,14823,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+250,Look! She can jump,eng,14823,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+251,Look! She can jump,eng,14824,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+252,Look! She can jump,eng,14825,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+253,Look! She can jump,eng,14825,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+254,Look! She can jump,eng,14826,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+255,Look! She can jump,eng,14826,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+256,Look! She can jump,eng,14827,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+257,Look! She can jump,eng,14827,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+258,Look! She can jump,eng,14829,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+259,Look! She can jump,eng,14830,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+260,Look! She can jump,eng,14835,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+261,Look! She can jump,eng,14836,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+262,Look! She can jump,eng,14839,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+263,Look! She can jump,eng,14846,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+264,Look! She can jump,eng,14849,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+265,Look! She can jump,eng,14850,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+266,Look! She can jump,eng,14852,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+267,Look! She can jump,eng,14852,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+268,Look! She can jump,eng,14860,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+269,Look! She can jump,eng,14864,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+270,Look! She can jump,eng,14892,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+271,Look! She can jump,eng,14893,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+272,Look! She can jump,eng,14895,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+273,Look! She can jump,eng,14897,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+274,Look! She can jump,eng,14901,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+275,Look! She can jump,eng,14902,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+276,Look! She can jump,eng,14903,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+277,Look! She can jump,eng,14905,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+278,Look! She can jump,eng,14908,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+279,Look! She can jump,eng,14908,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+280,Look! She can jump,eng,14909,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+281,Look! She can jump,eng,14909,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+282,Look! She can jump,eng,14910,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+283,Look! She can jump,eng,14910,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+284,Look! She can jump,eng,14911,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+285,Look! She can jump,eng,14911,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+286,Look! She can jump,eng,14912,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+287,Look! She can jump,eng,14912,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+288,Look! She can jump,eng,14913,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+289,Look! She can jump,eng,14914,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+290,Look! She can jump,eng,14914,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+291,Look! She can jump,eng,14915,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+292,Look! She can jump,eng,14915,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+293,Look! She can jump,eng,14916,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+294,Look! She can jump,eng,14917,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+295,Look! She can jump,eng,14918,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+296,Look! She can jump,eng,14919,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+297,Look! She can jump,eng,14919,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+298,Look! She can jump,eng,14920,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+299,Look! She can jump,eng,14921,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+300,Look! She can jump,eng,18107,TRUE,right,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+301,Look! She can jump,eng,19020,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+302,Look! She can jump,eng,19286,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+303,Look! She can jump,eng,21342,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+304,Look! She can jump,eng,23379,TRUE,left,jump_can-jump_run_distractor,correctly pronounced x regular,0,17,7,0,NA
+305,Look! She can read,eng,14809,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+306,Look! She can read,eng,14810,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+307,Look! She can read,eng,14811,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+308,Look! She can read,eng,14812,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+309,Look! She can read,eng,14813,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+310,Look! She can read,eng,14815,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+311,Look! She can read,eng,14815,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+312,Look! She can read,eng,14816,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+313,Look! She can read,eng,14817,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+314,Look! She can read,eng,14817,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+315,Look! She can read,eng,14818,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+316,Look! She can read,eng,14819,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+317,Look! She can read,eng,14819,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+318,Look! She can read,eng,14820,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+319,Look! She can read,eng,14821,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+320,Look! She can read,eng,14821,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+321,Look! She can read,eng,14822,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+322,Look! She can read,eng,14822,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+323,Look! She can read,eng,14823,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+324,Look! She can read,eng,14823,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+325,Look! She can read,eng,14824,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+326,Look! She can read,eng,14825,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+327,Look! She can read,eng,14825,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+328,Look! She can read,eng,14826,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+329,Look! She can read,eng,14827,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+330,Look! She can read,eng,14827,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+331,Look! She can read,eng,14828,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+332,Look! She can read,eng,14829,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+333,Look! She can read,eng,14829,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+334,Look! She can read,eng,14830,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+335,Look! She can read,eng,14831,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+336,Look! She can read,eng,14831,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+337,Look! She can read,eng,14832,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+338,Look! She can read,eng,14836,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+339,Look! She can read,eng,14836,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+340,Look! She can read,eng,14845,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+341,Look! She can read,eng,14848,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+342,Look! She can read,eng,14857,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+343,Look! She can read,eng,14867,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+344,Look! She can read,eng,14890,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+345,Look! She can read,eng,14890,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+346,Look! She can read,eng,14899,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+347,Look! She can read,eng,14901,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+348,Look! She can read,eng,14902,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+349,Look! She can read,eng,14903,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+350,Look! She can read,eng,14906,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+351,Look! She can read,eng,14906,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+352,Look! She can read,eng,14908,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+353,Look! She can read,eng,14909,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+354,Look! She can read,eng,14909,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+355,Look! She can read,eng,14910,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+356,Look! She can read,eng,14911,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+357,Look! She can read,eng,14912,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+358,Look! She can read,eng,14912,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+359,Look! She can read,eng,14913,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+360,Look! She can read,eng,14914,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+361,Look! She can read,eng,14914,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+362,Look! She can read,eng,14915,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+363,Look! She can read,eng,14915,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+364,Look! She can read,eng,14916,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+365,Look! She can read,eng,14917,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+366,Look! She can read,eng,14917,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+367,Look! She can read,eng,14918,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+368,Look! She can read,eng,14920,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+369,Look! She can read,eng,14921,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+370,Look! She can read,eng,14921,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+371,Look! She can read,eng,16884,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+372,Look! She can read,eng,16895,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+373,Look! She can read,eng,22753,TRUE,left,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+374,Look! She can read,eng,26309,TRUE,right,read_can-read_clean_distractor,correctly pronounced x irregular,0,2,12,0,NA
+375,Look! She can roan,eng,14809,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+376,Look! She can roan,eng,14810,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+377,Look! She can roan,eng,14812,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+378,Look! She can roan,eng,14812,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+379,Look! She can roan,eng,14813,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+380,Look! She can roan,eng,14813,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+381,Look! She can roan,eng,14814,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+382,Look! She can roan,eng,14815,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+383,Look! She can roan,eng,14815,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+384,Look! She can roan,eng,14816,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+385,Look! She can roan,eng,14816,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+386,Look! She can roan,eng,14817,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+387,Look! She can roan,eng,14817,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+388,Look! She can roan,eng,14818,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+389,Look! She can roan,eng,14819,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+390,Look! She can roan,eng,14819,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+391,Look! She can roan,eng,14820,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+392,Look! She can roan,eng,14820,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+393,Look! She can roan,eng,14821,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+394,Look! She can roan,eng,14821,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+395,Look! She can roan,eng,14822,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+396,Look! She can roan,eng,14822,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+397,Look! She can roan,eng,14823,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+398,Look! She can roan,eng,14823,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+399,Look! She can roan,eng,14824,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+400,Look! She can roan,eng,14824,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+401,Look! She can roan,eng,14825,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+402,Look! She can roan,eng,14825,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+403,Look! She can roan,eng,14826,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+404,Look! She can roan,eng,14828,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+405,Look! She can roan,eng,14828,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+406,Look! She can roan,eng,14829,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+407,Look! She can roan,eng,14829,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+408,Look! She can roan,eng,14830,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+409,Look! She can roan,eng,14831,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+410,Look! She can roan,eng,14832,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+411,Look! She can roan,eng,14837,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+412,Look! She can roan,eng,14837,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+413,Look! She can roan,eng,14841,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+414,Look! She can roan,eng,14842,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+415,Look! She can roan,eng,14844,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+416,Look! She can roan,eng,14846,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+417,Look! She can roan,eng,14850,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+418,Look! She can roan,eng,14857,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+419,Look! She can roan,eng,14864,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+420,Look! She can roan,eng,14872,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+421,Look! She can roan,eng,14888,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+422,Look! She can roan,eng,14895,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+423,Look! She can roan,eng,14899,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+424,Look! She can roan,eng,14901,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+425,Look! She can roan,eng,14902,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+426,Look! She can roan,eng,14904,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+427,Look! She can roan,eng,14905,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+428,Look! She can roan,eng,14906,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+429,Look! She can roan,eng,14906,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+430,Look! She can roan,eng,14907,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+431,Look! She can roan,eng,14908,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+432,Look! She can roan,eng,14908,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+433,Look! She can roan,eng,14909,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+434,Look! She can roan,eng,14909,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+435,Look! She can roan,eng,14910,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+436,Look! She can roan,eng,14910,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+437,Look! She can roan,eng,14911,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+438,Look! She can roan,eng,14911,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+439,Look! She can roan,eng,14912,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+440,Look! She can roan,eng,14912,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+441,Look! She can roan,eng,14913,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+442,Look! She can roan,eng,14914,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+443,Look! She can roan,eng,14914,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+444,Look! She can roan,eng,14915,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+445,Look! She can roan,eng,14915,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+446,Look! She can roan,eng,14916,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+447,Look! She can roan,eng,14916,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+448,Look! She can roan,eng,14917,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+449,Look! She can roan,eng,14917,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+450,Look! She can roan,eng,14918,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+451,Look! She can roan,eng,14919,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+452,Look! She can roan,eng,14920,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+453,Look! She can roan,eng,14920,FALSE,right,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+454,Look! She can roan,eng,16341,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+455,Look! She can roan,eng,18375,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+456,Look! She can roan,eng,18402,FALSE,left,run_can-roan_jump_distractor,mispronounced x irregular,0,8,15,0,NA
+457,Look! She can rowd,eng,14811,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+458,Look! She can rowd,eng,14812,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+459,Look! She can rowd,eng,14813,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+460,Look! She can rowd,eng,14813,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+461,Look! She can rowd,eng,14814,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+462,Look! She can rowd,eng,14814,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+463,Look! She can rowd,eng,14816,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+464,Look! She can rowd,eng,14817,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+465,Look! She can rowd,eng,14817,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+466,Look! She can rowd,eng,14818,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+467,Look! She can rowd,eng,14818,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+468,Look! She can rowd,eng,14819,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+469,Look! She can rowd,eng,14819,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+470,Look! She can rowd,eng,14820,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+471,Look! She can rowd,eng,14820,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+472,Look! She can rowd,eng,14821,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+473,Look! She can rowd,eng,14821,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+474,Look! She can rowd,eng,14822,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+475,Look! She can rowd,eng,14822,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+476,Look! She can rowd,eng,14823,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+477,Look! She can rowd,eng,14823,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+478,Look! She can rowd,eng,14824,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+479,Look! She can rowd,eng,14824,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+480,Look! She can rowd,eng,14825,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+481,Look! She can rowd,eng,14826,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+482,Look! She can rowd,eng,14827,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+483,Look! She can rowd,eng,14828,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+484,Look! She can rowd,eng,14828,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+485,Look! She can rowd,eng,14829,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+486,Look! She can rowd,eng,14830,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+487,Look! She can rowd,eng,14832,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+488,Look! She can rowd,eng,14833,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+489,Look! She can rowd,eng,14834,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+490,Look! She can rowd,eng,14834,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+491,Look! She can rowd,eng,14840,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+492,Look! She can rowd,eng,14842,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+493,Look! She can rowd,eng,14849,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+494,Look! She can rowd,eng,14849,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+495,Look! She can rowd,eng,14853,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+496,Look! She can rowd,eng,14858,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+497,Look! She can rowd,eng,14861,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+498,Look! She can rowd,eng,14877,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+499,Look! She can rowd,eng,14879,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+500,Look! She can rowd,eng,14879,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+501,Look! She can rowd,eng,14886,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+502,Look! She can rowd,eng,14887,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+503,Look! She can rowd,eng,14894,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+504,Look! She can rowd,eng,14898,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+505,Look! She can rowd,eng,14899,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+506,Look! She can rowd,eng,14902,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+507,Look! She can rowd,eng,14904,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+508,Look! She can rowd,eng,14905,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+509,Look! She can rowd,eng,14905,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+510,Look! She can rowd,eng,14907,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+511,Look! She can rowd,eng,14908,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+512,Look! She can rowd,eng,14909,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+513,Look! She can rowd,eng,14911,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+514,Look! She can rowd,eng,14911,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+515,Look! She can rowd,eng,14912,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+516,Look! She can rowd,eng,14912,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+517,Look! She can rowd,eng,14913,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+518,Look! She can rowd,eng,14914,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+519,Look! She can rowd,eng,14914,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+520,Look! She can rowd,eng,14915,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+521,Look! She can rowd,eng,14915,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+522,Look! She can rowd,eng,14916,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+523,Look! She can rowd,eng,14916,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+524,Look! She can rowd,eng,14917,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+525,Look! She can rowd,eng,14918,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+526,Look! She can rowd,eng,14919,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+527,Look! She can rowd,eng,14920,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+528,Look! She can rowd,eng,14921,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+529,Look! She can rowd,eng,15719,FALSE,right,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+530,Look! She can rowd,eng,16789,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+531,Look! She can rowd,eng,17837,FALSE,left,read_can-rowd_clean_distractor,mispronounced x irregular,0,2,13,0,NA
+532,Look! She can run,eng,14808,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+533,Look! She can run,eng,14810,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+534,Look! She can run,eng,14810,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+535,Look! She can run,eng,14811,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+536,Look! She can run,eng,14811,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+537,Look! She can run,eng,14812,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+538,Look! She can run,eng,14812,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+539,Look! She can run,eng,14813,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+540,Look! She can run,eng,14813,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+541,Look! She can run,eng,14814,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+542,Look! She can run,eng,14814,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+543,Look! She can run,eng,14815,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+544,Look! She can run,eng,14815,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+545,Look! She can run,eng,14816,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+546,Look! She can run,eng,14816,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+547,Look! She can run,eng,14817,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+548,Look! She can run,eng,14818,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+549,Look! She can run,eng,14818,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+550,Look! She can run,eng,14819,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+551,Look! She can run,eng,14819,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+552,Look! She can run,eng,14820,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+553,Look! She can run,eng,14820,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+554,Look! She can run,eng,14821,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+555,Look! She can run,eng,14822,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+556,Look! She can run,eng,14823,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+557,Look! She can run,eng,14824,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+558,Look! She can run,eng,14824,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+559,Look! She can run,eng,14825,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+560,Look! She can run,eng,14825,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+561,Look! She can run,eng,14826,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+562,Look! She can run,eng,14826,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+563,Look! She can run,eng,14828,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+564,Look! She can run,eng,14829,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+565,Look! She can run,eng,14830,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+566,Look! She can run,eng,14830,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+567,Look! She can run,eng,14831,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+568,Look! She can run,eng,14833,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+569,Look! She can run,eng,14835,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+570,Look! She can run,eng,14836,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+571,Look! She can run,eng,14838,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+572,Look! She can run,eng,14839,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+573,Look! She can run,eng,14845,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+574,Look! She can run,eng,14847,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+575,Look! She can run,eng,14852,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+576,Look! She can run,eng,14862,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+577,Look! She can run,eng,14865,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+578,Look! She can run,eng,14886,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+579,Look! She can run,eng,14887,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+580,Look! She can run,eng,14895,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+581,Look! She can run,eng,14897,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+582,Look! She can run,eng,14899,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+583,Look! She can run,eng,14900,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+584,Look! She can run,eng,14900,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+585,Look! She can run,eng,14904,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+586,Look! She can run,eng,14905,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+587,Look! She can run,eng,14906,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+588,Look! She can run,eng,14907,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+589,Look! She can run,eng,14909,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+590,Look! She can run,eng,14909,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+591,Look! She can run,eng,14910,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+592,Look! She can run,eng,14911,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+593,Look! She can run,eng,14911,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+594,Look! She can run,eng,14912,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+595,Look! She can run,eng,14912,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+596,Look! She can run,eng,14913,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+597,Look! She can run,eng,14913,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+598,Look! She can run,eng,14914,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+599,Look! She can run,eng,14914,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+600,Look! She can run,eng,14915,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+601,Look! She can run,eng,14915,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+602,Look! She can run,eng,14916,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+603,Look! She can run,eng,14916,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+604,Look! She can run,eng,14917,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+605,Look! She can run,eng,14917,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+606,Look! She can run,eng,14918,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+607,Look! She can run,eng,14920,TRUE,right,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+608,Look! She can run,eng,14921,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+609,Look! She can run,eng,14925,TRUE,left,run_can-run_jump_distractor,correctly pronounced x irregular,0,8,16,0,NA
+610,She's about to drink it,eng,14808,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+611,She's about to drink it,eng,14809,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+612,She's about to drink it,eng,14811,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+613,She's about to drink it,eng,14812,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+614,She's about to drink it,eng,14812,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+615,She's about to drink it,eng,14813,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+616,She's about to drink it,eng,14814,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+617,She's about to drink it,eng,14815,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+618,She's about to drink it,eng,14816,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+619,She's about to drink it,eng,14816,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+620,She's about to drink it,eng,14817,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+621,She's about to drink it,eng,14817,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+622,She's about to drink it,eng,14818,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+623,She's about to drink it,eng,14818,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+624,She's about to drink it,eng,14819,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+625,She's about to drink it,eng,14820,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+626,She's about to drink it,eng,14820,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+627,She's about to drink it,eng,14821,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+628,She's about to drink it,eng,14821,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+629,She's about to drink it,eng,14822,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+630,She's about to drink it,eng,14822,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+631,She's about to drink it,eng,14823,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+632,She's about to drink it,eng,14823,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+633,She's about to drink it,eng,14824,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+634,She's about to drink it,eng,14824,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+635,She's about to drink it,eng,14825,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+636,She's about to drink it,eng,14825,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+637,She's about to drink it,eng,14826,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+638,She's about to drink it,eng,14826,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+639,She's about to drink it,eng,14827,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+640,She's about to drink it,eng,14828,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+641,She's about to drink it,eng,14828,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+642,She's about to drink it,eng,14829,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+643,She's about to drink it,eng,14829,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+644,She's about to drink it,eng,14830,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+645,She's about to drink it,eng,14830,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+646,She's about to drink it,eng,14834,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+647,She's about to drink it,eng,14834,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+648,She's about to drink it,eng,14839,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+649,She's about to drink it,eng,14846,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+650,She's about to drink it,eng,14854,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+651,She's about to drink it,eng,14858,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+652,She's about to drink it,eng,14860,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+653,She's about to drink it,eng,14862,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+654,She's about to drink it,eng,14879,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+655,She's about to drink it,eng,14889,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+656,She's about to drink it,eng,14891,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+657,She's about to drink it,eng,14891,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+658,She's about to drink it,eng,14895,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+659,She's about to drink it,eng,14903,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+660,She's about to drink it,eng,14903,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+661,She's about to drink it,eng,14904,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+662,She's about to drink it,eng,14905,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+663,She's about to drink it,eng,14905,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+664,She's about to drink it,eng,14907,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+665,She's about to drink it,eng,14908,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+666,She's about to drink it,eng,14909,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+667,She's about to drink it,eng,14910,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+668,She's about to drink it,eng,14911,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+669,She's about to drink it,eng,14911,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+670,She's about to drink it,eng,14912,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+671,She's about to drink it,eng,14912,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+672,She's about to drink it,eng,14913,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+673,She's about to drink it,eng,14913,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+674,She's about to drink it,eng,14914,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+675,She's about to drink it,eng,14914,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+676,She's about to drink it,eng,14915,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+677,She's about to drink it,eng,14915,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+678,She's about to drink it,eng,14916,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+679,She's about to drink it,eng,14916,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+680,She's about to drink it,eng,14917,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+681,She's about to drink it,eng,14917,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+682,She's about to drink it,eng,14923,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+683,She's about to drink it,eng,14932,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+684,She's about to drink it,eng,15855,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+685,She's about to drink it,eng,16168,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+686,She's about to drink it,eng,16457,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+687,She's about to drink it,eng,20794,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+688,She's about to drink it,eng,24798,TRUE,left,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+689,She's about to drink it,eng,33993,TRUE,right,drink_about-drink_kiss_distractor,correctly pronounced x irregular,0,11,3,0,NA
+690,She's about to droink it,eng,14806,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+691,She's about to droink it,eng,14810,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+692,She's about to droink it,eng,14812,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+693,She's about to droink it,eng,14814,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+694,She's about to droink it,eng,14814,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+695,She's about to droink it,eng,14815,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+696,She's about to droink it,eng,14815,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+697,She's about to droink it,eng,14816,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+698,She's about to droink it,eng,14816,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+699,She's about to droink it,eng,14817,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+700,She's about to droink it,eng,14818,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+701,She's about to droink it,eng,14819,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+702,She's about to droink it,eng,14819,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+703,She's about to droink it,eng,14820,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+704,She's about to droink it,eng,14820,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+705,She's about to droink it,eng,14821,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+706,She's about to droink it,eng,14821,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+707,She's about to droink it,eng,14822,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+708,She's about to droink it,eng,14822,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+709,She's about to droink it,eng,14823,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+710,She's about to droink it,eng,14824,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+711,She's about to droink it,eng,14824,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+712,She's about to droink it,eng,14825,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+713,She's about to droink it,eng,14825,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+714,She's about to droink it,eng,14826,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+715,She's about to droink it,eng,14827,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+716,She's about to droink it,eng,14827,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+717,She's about to droink it,eng,14828,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+718,She's about to droink it,eng,14828,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+719,She's about to droink it,eng,14829,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+720,She's about to droink it,eng,14829,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+721,She's about to droink it,eng,14837,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+722,She's about to droink it,eng,14840,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+723,She's about to droink it,eng,14843,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+724,She's about to droink it,eng,14844,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+725,She's about to droink it,eng,14847,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+726,She's about to droink it,eng,14848,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+727,She's about to droink it,eng,14853,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+728,She's about to droink it,eng,14857,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+729,She's about to droink it,eng,14862,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+730,She's about to droink it,eng,14868,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+731,She's about to droink it,eng,14891,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+732,She's about to droink it,eng,14892,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+733,She's about to droink it,eng,14892,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+734,She's about to droink it,eng,14895,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+735,She's about to droink it,eng,14896,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+736,She's about to droink it,eng,14896,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+737,She's about to droink it,eng,14897,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+738,She's about to droink it,eng,14904,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+739,She's about to droink it,eng,14905,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+740,She's about to droink it,eng,14908,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+741,She's about to droink it,eng,14909,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+742,She's about to droink it,eng,14909,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+743,She's about to droink it,eng,14910,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+744,She's about to droink it,eng,14910,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+745,She's about to droink it,eng,14911,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+746,She's about to droink it,eng,14911,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+747,She's about to droink it,eng,14912,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+748,She's about to droink it,eng,14912,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+749,She's about to droink it,eng,14913,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+750,She's about to droink it,eng,14914,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+751,She's about to droink it,eng,14914,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+752,She's about to droink it,eng,14915,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+753,She's about to droink it,eng,14916,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+754,She's about to droink it,eng,14916,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+755,She's about to droink it,eng,14917,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+756,She's about to droink it,eng,14918,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+757,She's about to droink it,eng,14919,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+758,She's about to droink it,eng,14919,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+759,She's about to droink it,eng,14920,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+760,She's about to droink it,eng,14929,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+761,She's about to droink it,eng,19819,FALSE,left,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+762,She's about to droink it,eng,22576,FALSE,right,drink_about-droink_kiss_distractor,mispronounced x irregular,0,11,4,0,NA
+763,She's about to kiss it,eng,14809,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+764,She's about to kiss it,eng,14811,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+765,She's about to kiss it,eng,14812,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+766,She's about to kiss it,eng,14812,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+767,She's about to kiss it,eng,14813,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+768,She's about to kiss it,eng,14814,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+769,She's about to kiss it,eng,14815,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+770,She's about to kiss it,eng,14815,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+771,She's about to kiss it,eng,14816,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+772,She's about to kiss it,eng,14817,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+773,She's about to kiss it,eng,14817,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+774,She's about to kiss it,eng,14818,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+775,She's about to kiss it,eng,14818,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+776,She's about to kiss it,eng,14819,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+777,She's about to kiss it,eng,14819,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+778,She's about to kiss it,eng,14820,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+779,She's about to kiss it,eng,14820,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+780,She's about to kiss it,eng,14821,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+781,She's about to kiss it,eng,14822,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+782,She's about to kiss it,eng,14822,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+783,She's about to kiss it,eng,14823,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+784,She's about to kiss it,eng,14823,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+785,She's about to kiss it,eng,14824,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+786,She's about to kiss it,eng,14824,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+787,She's about to kiss it,eng,14825,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+788,She's about to kiss it,eng,14825,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+789,She's about to kiss it,eng,14826,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+790,She's about to kiss it,eng,14827,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+791,She's about to kiss it,eng,14828,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+792,She's about to kiss it,eng,14829,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+793,She's about to kiss it,eng,14829,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+794,She's about to kiss it,eng,14830,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+795,She's about to kiss it,eng,14830,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+796,She's about to kiss it,eng,14831,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+797,She's about to kiss it,eng,14833,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+798,She's about to kiss it,eng,14842,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+799,She's about to kiss it,eng,14844,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+800,She's about to kiss it,eng,14850,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+801,She's about to kiss it,eng,14858,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+802,She's about to kiss it,eng,14859,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+803,She's about to kiss it,eng,14862,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+804,She's about to kiss it,eng,14868,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+805,She's about to kiss it,eng,14886,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+806,She's about to kiss it,eng,14887,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+807,She's about to kiss it,eng,14889,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+808,She's about to kiss it,eng,14891,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+809,She's about to kiss it,eng,14895,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+810,She's about to kiss it,eng,14896,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+811,She's about to kiss it,eng,14897,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+812,She's about to kiss it,eng,14899,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+813,She's about to kiss it,eng,14902,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+814,She's about to kiss it,eng,14905,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+815,She's about to kiss it,eng,14906,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+816,She's about to kiss it,eng,14907,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+817,She's about to kiss it,eng,14908,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+818,She's about to kiss it,eng,14909,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+819,She's about to kiss it,eng,14910,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+820,She's about to kiss it,eng,14911,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+821,She's about to kiss it,eng,14912,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+822,She's about to kiss it,eng,14912,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+823,She's about to kiss it,eng,14913,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+824,She's about to kiss it,eng,14913,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+825,She's about to kiss it,eng,14914,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+826,She's about to kiss it,eng,14914,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+827,She's about to kiss it,eng,14915,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+828,She's about to kiss it,eng,14915,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+829,She's about to kiss it,eng,14916,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+830,She's about to kiss it,eng,14916,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+831,She's about to kiss it,eng,14917,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+832,She's about to kiss it,eng,14917,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+833,She's about to kiss it,eng,14918,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+834,She's about to kiss it,eng,14919,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+835,She's about to kiss it,eng,20676,TRUE,left,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+836,She's about to kiss it,eng,20809,TRUE,right,kiss_about-kiss_drink_distractor,correctly pronounced x regular,0,5,9,0,NA
+837,She's about to koss it,eng,14809,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+838,She's about to koss it,eng,14811,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+839,She's about to koss it,eng,14811,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+840,She's about to koss it,eng,14812,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+841,She's about to koss it,eng,14813,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+842,She's about to koss it,eng,14814,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+843,She's about to koss it,eng,14814,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+844,She's about to koss it,eng,14815,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+845,She's about to koss it,eng,14815,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+846,She's about to koss it,eng,14816,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+847,She's about to koss it,eng,14817,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+848,She's about to koss it,eng,14817,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+849,She's about to koss it,eng,14818,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+850,She's about to koss it,eng,14818,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+851,She's about to koss it,eng,14819,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+852,She's about to koss it,eng,14819,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+853,She's about to koss it,eng,14820,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+854,She's about to koss it,eng,14820,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+855,She's about to koss it,eng,14821,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+856,She's about to koss it,eng,14822,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+857,She's about to koss it,eng,14822,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+858,She's about to koss it,eng,14823,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+859,She's about to koss it,eng,14823,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+860,She's about to koss it,eng,14824,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+861,She's about to koss it,eng,14824,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+862,She's about to koss it,eng,14825,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+863,She's about to koss it,eng,14825,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+864,She's about to koss it,eng,14826,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+865,She's about to koss it,eng,14826,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+866,She's about to koss it,eng,14827,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+867,She's about to koss it,eng,14828,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+868,She's about to koss it,eng,14829,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+869,She's about to koss it,eng,14830,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+870,She's about to koss it,eng,14840,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+871,She's about to koss it,eng,14842,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+872,She's about to koss it,eng,14845,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+873,She's about to koss it,eng,14851,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+874,She's about to koss it,eng,14854,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+875,She's about to koss it,eng,14868,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+876,She's about to koss it,eng,14872,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+877,She's about to koss it,eng,14874,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+878,She's about to koss it,eng,14885,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+879,She's about to koss it,eng,14890,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+880,She's about to koss it,eng,14891,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+881,She's about to koss it,eng,14892,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+882,She's about to koss it,eng,14893,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+883,She's about to koss it,eng,14894,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+884,She's about to koss it,eng,14896,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+885,She's about to koss it,eng,14903,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+886,She's about to koss it,eng,14904,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+887,She's about to koss it,eng,14905,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+888,She's about to koss it,eng,14908,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+889,She's about to koss it,eng,14908,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+890,She's about to koss it,eng,14909,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+891,She's about to koss it,eng,14909,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+892,She's about to koss it,eng,14910,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+893,She's about to koss it,eng,14911,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+894,She's about to koss it,eng,14911,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+895,She's about to koss it,eng,14912,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+896,She's about to koss it,eng,14913,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+897,She's about to koss it,eng,14914,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+898,She's about to koss it,eng,14915,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+899,She's about to koss it,eng,14916,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+900,She's about to koss it,eng,14916,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+901,She's about to koss it,eng,14917,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+902,She's about to koss it,eng,14917,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+903,She's about to koss it,eng,14918,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+904,She's about to koss it,eng,14918,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+905,She's about to koss it,eng,14919,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+906,She's about to koss it,eng,14920,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+907,She's about to koss it,eng,14920,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+908,She's about to koss it,eng,14922,FALSE,right,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+909,She's about to koss it,eng,27487,FALSE,left,kiss_about-koss_drink_distractor,mispronounced x regular,0,5,10,0,NA
+910,She's gonna thraw,eng,14810,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+911,She's gonna thraw,eng,14810,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+912,She's gonna thraw,eng,14811,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+913,She's gonna thraw,eng,14812,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+914,She's gonna thraw,eng,14813,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+915,She's gonna thraw,eng,14813,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+916,She's gonna thraw,eng,14814,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+917,She's gonna thraw,eng,14814,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+918,She's gonna thraw,eng,14815,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+919,She's gonna thraw,eng,14815,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+920,She's gonna thraw,eng,14816,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+921,She's gonna thraw,eng,14817,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+922,She's gonna thraw,eng,14817,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+923,She's gonna thraw,eng,14818,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+924,She's gonna thraw,eng,14818,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+925,She's gonna thraw,eng,14819,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+926,She's gonna thraw,eng,14819,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+927,She's gonna thraw,eng,14820,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+928,She's gonna thraw,eng,14820,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+929,She's gonna thraw,eng,14821,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+930,She's gonna thraw,eng,14821,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+931,She's gonna thraw,eng,14822,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+932,She's gonna thraw,eng,14823,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+933,She's gonna thraw,eng,14823,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+934,She's gonna thraw,eng,14824,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+935,She's gonna thraw,eng,14825,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+936,She's gonna thraw,eng,14825,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+937,She's gonna thraw,eng,14826,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+938,She's gonna thraw,eng,14827,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+939,She's gonna thraw,eng,14827,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+940,She's gonna thraw,eng,14828,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+941,She's gonna thraw,eng,14829,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+942,She's gonna thraw,eng,14829,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+943,She's gonna thraw,eng,14830,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+944,She's gonna thraw,eng,14831,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+945,She's gonna thraw,eng,14833,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+946,She's gonna thraw,eng,14839,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+947,She's gonna thraw,eng,14842,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+948,She's gonna thraw,eng,14853,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+949,She's gonna thraw,eng,14855,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+950,She's gonna thraw,eng,14858,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+951,She's gonna thraw,eng,14865,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+952,She's gonna thraw,eng,14872,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+953,She's gonna thraw,eng,14880,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+954,She's gonna thraw,eng,14884,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+955,She's gonna thraw,eng,14891,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+956,She's gonna thraw,eng,14894,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+957,She's gonna thraw,eng,14895,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+958,She's gonna thraw,eng,14897,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+959,She's gonna thraw,eng,14898,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+960,She's gonna thraw,eng,14899,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+961,She's gonna thraw,eng,14900,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+962,She's gonna thraw,eng,14904,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+963,She's gonna thraw,eng,14905,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+964,She's gonna thraw,eng,14906,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+965,She's gonna thraw,eng,14906,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+966,She's gonna thraw,eng,14907,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+967,She's gonna thraw,eng,14907,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+968,She's gonna thraw,eng,14908,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+969,She's gonna thraw,eng,14908,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+970,She's gonna thraw,eng,14909,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+971,She's gonna thraw,eng,14909,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+972,She's gonna thraw,eng,14911,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+973,She's gonna thraw,eng,14912,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+974,She's gonna thraw,eng,14912,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+975,She's gonna thraw,eng,14913,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+976,She's gonna thraw,eng,14914,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+977,She's gonna thraw,eng,14915,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+978,She's gonna thraw,eng,14916,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+979,She's gonna thraw,eng,14916,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+980,She's gonna thraw,eng,14917,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+981,She's gonna thraw,eng,14917,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+982,She's gonna thraw,eng,14918,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+983,She's gonna thraw,eng,14918,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+984,She's gonna thraw,eng,14920,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+985,She's gonna thraw,eng,14920,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+986,She's gonna thraw,eng,14922,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+987,She's gonna thraw,eng,14925,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+988,She's gonna thraw,eng,14926,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+989,She's gonna thraw,eng,14929,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+990,She's gonna thraw,eng,14930,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+991,She's gonna thraw,eng,14935,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+992,She's gonna thraw,eng,15499,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+993,She's gonna thraw,eng,16140,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+994,She's gonna thraw,eng,19374,FALSE,left,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+995,She's gonna thraw,eng,19971,FALSE,right,throw_gonna-thraw_walk_distractor,mispronounced x irregular,0,21,19,0,NA
+996,She's gonna throw,eng,14811,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+997,She's gonna throw,eng,14812,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+998,She's gonna throw,eng,14813,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+999,She's gonna throw,eng,14814,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1000,She's gonna throw,eng,14814,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1001,She's gonna throw,eng,14815,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1002,She's gonna throw,eng,14815,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1003,She's gonna throw,eng,14816,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1004,She's gonna throw,eng,14816,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1005,She's gonna throw,eng,14817,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1006,She's gonna throw,eng,14817,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1007,She's gonna throw,eng,14818,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1008,She's gonna throw,eng,14819,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1009,She's gonna throw,eng,14819,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1010,She's gonna throw,eng,14820,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1011,She's gonna throw,eng,14821,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1012,She's gonna throw,eng,14821,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1013,She's gonna throw,eng,14822,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1014,She's gonna throw,eng,14822,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1015,She's gonna throw,eng,14823,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1016,She's gonna throw,eng,14824,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1017,She's gonna throw,eng,14825,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1018,She's gonna throw,eng,14825,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1019,She's gonna throw,eng,14826,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1020,She's gonna throw,eng,14826,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1021,She's gonna throw,eng,14827,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1022,She's gonna throw,eng,14828,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1023,She's gonna throw,eng,14830,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1024,She's gonna throw,eng,14831,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1025,She's gonna throw,eng,14832,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1026,She's gonna throw,eng,14832,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1027,She's gonna throw,eng,14833,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1028,She's gonna throw,eng,14834,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1029,She's gonna throw,eng,14838,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1030,She's gonna throw,eng,14840,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1031,She's gonna throw,eng,14847,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1032,She's gonna throw,eng,14848,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1033,She's gonna throw,eng,14853,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1034,She's gonna throw,eng,14866,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1035,She's gonna throw,eng,14889,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1036,She's gonna throw,eng,14895,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1037,She's gonna throw,eng,14896,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1038,She's gonna throw,eng,14896,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1039,She's gonna throw,eng,14898,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1040,She's gonna throw,eng,14901,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1041,She's gonna throw,eng,14903,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1042,She's gonna throw,eng,14904,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1043,She's gonna throw,eng,14904,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1044,She's gonna throw,eng,14908,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1045,She's gonna throw,eng,14909,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1046,She's gonna throw,eng,14910,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1047,She's gonna throw,eng,14911,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1048,She's gonna throw,eng,14912,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1049,She's gonna throw,eng,14912,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1050,She's gonna throw,eng,14913,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1051,She's gonna throw,eng,14913,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1052,She's gonna throw,eng,14914,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1053,She's gonna throw,eng,14914,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1054,She's gonna throw,eng,14915,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1055,She's gonna throw,eng,14915,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1056,She's gonna throw,eng,14916,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1057,She's gonna throw,eng,14916,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1058,She's gonna throw,eng,14917,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1059,She's gonna throw,eng,14917,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1060,She's gonna throw,eng,14918,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1061,She's gonna throw,eng,14919,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1062,She's gonna throw,eng,14921,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1063,She's gonna throw,eng,22573,TRUE,left,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1064,She's gonna throw,eng,28287,TRUE,right,throw_gonna-throw_walk_distractor,correctly pronounced x irregular,0,21,20,0,NA
+1065,She's gonna walk,eng,14807,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1066,She's gonna walk,eng,14809,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1067,She's gonna walk,eng,14810,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1068,She's gonna walk,eng,14811,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1069,She's gonna walk,eng,14812,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1070,She's gonna walk,eng,14813,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1071,She's gonna walk,eng,14813,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1072,She's gonna walk,eng,14814,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1073,She's gonna walk,eng,14815,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1074,She's gonna walk,eng,14815,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1075,She's gonna walk,eng,14816,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1076,She's gonna walk,eng,14816,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1077,She's gonna walk,eng,14817,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1078,She's gonna walk,eng,14817,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1079,She's gonna walk,eng,14818,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1080,She's gonna walk,eng,14819,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1081,She's gonna walk,eng,14819,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1082,She's gonna walk,eng,14820,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1083,She's gonna walk,eng,14820,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1084,She's gonna walk,eng,14821,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1085,She's gonna walk,eng,14821,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1086,She's gonna walk,eng,14822,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1087,She's gonna walk,eng,14822,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1088,She's gonna walk,eng,14823,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1089,She's gonna walk,eng,14823,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1090,She's gonna walk,eng,14824,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1091,She's gonna walk,eng,14824,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1092,She's gonna walk,eng,14825,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1093,She's gonna walk,eng,14825,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1094,She's gonna walk,eng,14826,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1095,She's gonna walk,eng,14826,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1096,She's gonna walk,eng,14827,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1097,She's gonna walk,eng,14829,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1098,She's gonna walk,eng,14830,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1099,She's gonna walk,eng,14830,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1100,She's gonna walk,eng,14832,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1101,She's gonna walk,eng,14835,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1102,She's gonna walk,eng,14844,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1103,She's gonna walk,eng,14844,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1104,She's gonna walk,eng,14846,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1105,She's gonna walk,eng,14847,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1106,She's gonna walk,eng,14848,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1107,She's gonna walk,eng,14849,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1108,She's gonna walk,eng,14850,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1109,She's gonna walk,eng,14865,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1110,She's gonna walk,eng,14883,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1111,She's gonna walk,eng,14888,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1112,She's gonna walk,eng,14892,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1113,She's gonna walk,eng,14893,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1114,She's gonna walk,eng,14895,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1115,She's gonna walk,eng,14898,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1116,She's gonna walk,eng,14903,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1117,She's gonna walk,eng,14903,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1118,She's gonna walk,eng,14905,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1119,She's gonna walk,eng,14905,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1120,She's gonna walk,eng,14906,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1121,She's gonna walk,eng,14907,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1122,She's gonna walk,eng,14908,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1123,She's gonna walk,eng,14909,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1124,She's gonna walk,eng,14910,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1125,She's gonna walk,eng,14910,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1126,She's gonna walk,eng,14911,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1127,She's gonna walk,eng,14911,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1128,She's gonna walk,eng,14912,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1129,She's gonna walk,eng,14912,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1130,She's gonna walk,eng,14913,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1131,She's gonna walk,eng,14914,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1132,She's gonna walk,eng,14914,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1133,She's gonna walk,eng,14915,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1134,She's gonna walk,eng,14915,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1135,She's gonna walk,eng,14916,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1136,She's gonna walk,eng,14916,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1137,She's gonna walk,eng,14917,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1138,She's gonna walk,eng,14918,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1139,She's gonna walk,eng,14918,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1140,She's gonna walk,eng,14919,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1141,She's gonna walk,eng,14919,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1142,She's gonna walk,eng,14920,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1143,She's gonna walk,eng,18689,TRUE,left,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1144,She's gonna walk,eng,29471,TRUE,right,walk_gonna-walk_throw_distractor,correctly pronounced x regular,0,18,22,0,NA
+1145,She's gonna wick,eng,14809,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1146,She's gonna wick,eng,14810,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1147,She's gonna wick,eng,14811,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1148,She's gonna wick,eng,14812,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1149,She's gonna wick,eng,14813,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1150,She's gonna wick,eng,14813,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1151,She's gonna wick,eng,14815,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1152,She's gonna wick,eng,14816,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1153,She's gonna wick,eng,14816,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1154,She's gonna wick,eng,14817,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1155,She's gonna wick,eng,14817,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1156,She's gonna wick,eng,14818,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1157,She's gonna wick,eng,14818,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1158,She's gonna wick,eng,14819,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1159,She's gonna wick,eng,14820,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1160,She's gonna wick,eng,14821,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1161,She's gonna wick,eng,14821,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1162,She's gonna wick,eng,14822,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1163,She's gonna wick,eng,14823,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1164,She's gonna wick,eng,14823,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1165,She's gonna wick,eng,14824,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1166,She's gonna wick,eng,14825,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1167,She's gonna wick,eng,14826,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1168,She's gonna wick,eng,14827,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1169,She's gonna wick,eng,14827,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1170,She's gonna wick,eng,14828,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1171,She's gonna wick,eng,14828,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1172,She's gonna wick,eng,14830,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1173,She's gonna wick,eng,14831,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1174,She's gonna wick,eng,14840,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1175,She's gonna wick,eng,14843,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1176,She's gonna wick,eng,14845,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1177,She's gonna wick,eng,14847,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1178,She's gonna wick,eng,14851,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1179,She's gonna wick,eng,14858,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1180,She's gonna wick,eng,14879,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1181,She's gonna wick,eng,14882,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1182,She's gonna wick,eng,14883,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1183,She's gonna wick,eng,14886,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1184,She's gonna wick,eng,14890,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1185,She's gonna wick,eng,14894,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1186,She's gonna wick,eng,14896,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1187,She's gonna wick,eng,14904,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1188,She's gonna wick,eng,14910,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1189,She's gonna wick,eng,14910,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1190,She's gonna wick,eng,14911,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1191,She's gonna wick,eng,14911,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1192,She's gonna wick,eng,14912,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1193,She's gonna wick,eng,14912,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1194,She's gonna wick,eng,14913,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1195,She's gonna wick,eng,14913,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1196,She's gonna wick,eng,14914,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1197,She's gonna wick,eng,14914,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1198,She's gonna wick,eng,14915,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1199,She's gonna wick,eng,14915,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1200,She's gonna wick,eng,14916,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1201,She's gonna wick,eng,14917,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1202,She's gonna wick,eng,14917,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1203,She's gonna wick,eng,14918,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1204,She's gonna wick,eng,14918,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1205,She's gonna wick,eng,14919,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1206,She's gonna wick,eng,14922,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1207,She's gonna wick,eng,14923,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1208,She's gonna wick,eng,14927,FALSE,left,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1209,She's gonna wick,eng,14929,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1210,She's gonna wick,eng,14930,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1211,She's gonna wick,eng,14933,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1212,She's gonna wick,eng,14936,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
+1213,She's gonna wick,eng,29763,FALSE,right,walk_gonna-wick_throw_distractor,mispronounced x regular,0,18,23,0,NA
